@@ -1,0 +1,93 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+[id*="youtube-subscribe_widget"] {
+    position: relative
+}
+
+[id*="youtube-subscribe_widget"] .channel-name {
+    border-bottom: 1px solid #d3d3d8;
+    position: relative;
+    margin: 15px
+        0 30px;
+    padding: 0
+        50px 0 0;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -ms-word-break: break-all;
+    word-break: break-word;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+    white-space: normal
+}
+
+[id*="youtube-subscribe_widget"] .channel-name
+h5 {
+    margin: 0
+}
+
+[id*="youtube-subscribe_widget"] .channel-name
+p {
+    margin: 5px
+        0 26px
+}
+
+[id*="youtube-subscribe_widget"] .channel-name .icon {
+    position: absolute;
+    right: 3px;
+    top: 5px;
+    max-width: 50px;
+    font-size: 2.5em;
+    color: #cc181e 
+}
+
+[id*="youtube-subscribe_widget"] .btn-md {
+    padding: 0;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    color: white;
+    width: calc(100% - 115px)
+}
+
+[id*="youtube-subscribe_widget"] .btn-md
+i {
+    margin: 0
+        5px 0 0
+}
+
+[id*="youtube-subscribe_widget"] .button-cnt {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    min-width: 1px
+}
+
+[id*="youtube-subscribe_widget"] .button-cnt{
+    height: 50px;
+    line-height: 50px
+}
+
+[id*="youtube-subscribe_widget"] .btn {
+    text-align: center;
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3
+}
+
+[id*="youtube-subscribe_widget"] .youtube-cnt {
+    position: relative;
+    margin: 0 0 0 20px;
+    text-align: center;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1
+}
+
+[id*="youtube-subscribe_widget"] .youtube-cnt p{
+    margin: 0;
+}

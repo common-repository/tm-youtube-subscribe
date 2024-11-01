@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YouTube Subscribe\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-17 11:40+0200\n"
+"PO-Revision-Date: 2016-03-17 11:40+0200\n"
+"Last-Translator: Vladimir Anokhin <ano.vladimir@gmail.com>\n"
+"Language-Team: TemplateMonster\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;__;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.7.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:317
+msgid "Home"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:323
+msgid "Browse:"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:325
+msgid "404 Not Found"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:326
+msgid "Archives"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:328
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:330
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:332
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:334
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:963
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:982
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:1002
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:1021
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:1075
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:1117
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:1157
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:1372
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:1026
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:1121
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:1383
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:1031
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:1396
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: cherry-framework/modules/cherry-breadcrumbs/cherry-breadcrumbs.php:1079
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: cherry-framework/modules/cherry-dynamic-css/cherry-dynamic-css.php:323
+msgid "Variable not found"
+msgstr ""
+
+#: cherry-framework/modules/cherry-dynamic-css/cherry-dynamic-css.php:367
+msgid "Function does not exist"
+msgstr ""
+
+#: cherry-framework/modules/cherry-ui-elements/inc/ui-elements/ui-collection/views/collection.php:43
+msgid "Add"
+msgstr ""
+
+#: cherry-framework/modules/cherry-ui-elements/inc/ui-elements/ui-stepper/ui-stepper.php:63
+msgid "Step Up"
+msgstr ""
+
+#: cherry-framework/modules/cherry-ui-elements/inc/ui-elements/ui-stepper/ui-stepper.php:63
+msgid "Step Down"
+msgstr ""
+
+#: class-youtube-subscribe-widget.php:22
+msgid "YouTube subscribe Widget"
+msgstr ""
+
+#: class-youtube-subscribe-widget.php:24
+msgid "YouTube Subscribe"
+msgstr ""
+
+#: class-youtube-subscribe-widget.php:29
+msgid "Title"
+msgstr ""
+
+#: class-youtube-subscribe-widget.php:34
+msgid "API key"
+msgstr ""
+
+#: class-youtube-subscribe-widget.php:39
+msgid "Channel Title"
+msgstr ""
+
+#: class-youtube-subscribe-widget.php:44
+msgid "Channel URL"
+msgstr ""
+
+#: class-youtube-subscribe-widget.php:48
+msgid "novideo"
+msgstr ""
+
+#: class-youtube-subscribe-widget.php:49
+msgid " Text to display when there are no video "
+msgstr ""
+
+#: class-youtube-subscribe-widget.php:53
+msgid "video"
+msgstr ""
+
+#: class-youtube-subscribe-widget.php:54
+msgid "Text to display when there is one video"
+msgstr ""
+
+#: class-youtube-subscribe-widget.php:58
+msgid "videos"
+msgstr ""
+
+#: class-youtube-subscribe-widget.php:59
+msgid "Text to display when there is more than one video"
+msgstr ""
+
+#: templates/youtube-subscribe-view.php:16
+msgid "Subscribe"
+msgstr ""
